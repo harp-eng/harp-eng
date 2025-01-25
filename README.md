@@ -4,7 +4,7 @@
 - **Email**: [mr.harpreetsidhu@gmail.com](mailto:mr.harpreetsidhu@gmail.com)
 - **Location**: Bournemouth, UK
 
-[LinkedIn](https://www.linkedin.com/in/mr-harpreet-sidhu/) | [GitHub](https://github.com/harp-eng)
+[LinkedIn](https://www.linkedin.com/in/mr-harpreet-sidhu/) | [GitHub](https://github.com/harp-eng) | [Stackoverflow](https://stackoverflow.com/users/25239867/harpreet)
 
 ---
 
