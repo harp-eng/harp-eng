@@ -4,7 +4,7 @@
 - **Email**: [mr.harpreetsidhu@gmail.com](mailto:mr.harpreetsidhu@gmail.com)
 - **Location**: Bournemouth, UK
 
-[LinkedIn](https://www.linkedin.com/in/harpreetsidhu) | [GitHub](https://github.com/harpreetsidhu)
+[LinkedIn](https://www.linkedin.com/in/mr.harpreetsidhu) | [GitHub](https://github.com/harp-eng)
 
 ---
 
@@ -78,7 +78,7 @@ Versatile Full-Stack Developer with 7 years of experience in product development
 ---
 
 ## Languages
-- **English**: Proficient
+- **English**: Upper Intermediate
 
 ---
 
