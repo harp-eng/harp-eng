@@ -27,13 +27,8 @@ Versatile Full-Stack Developer with 7 years of experience in product development
 - Built APIs in NodeJS for customer and driver apps.
 - Deployed code on UK, USA, and India servers using GIT.
 
-### Team Lead
-**Live Deftsoft - Mohali, IN** | **Jun 2018 – Dec 2019**
-- Developed team management, motivation, and time management skills.
-- Improved communication skills through direct client conversations over Skype.
-
 ### Senior Web Developer
-**Live Deftsoft - Mohali, IN** | **Jun 2016 – Dec 2018**
+**Live Deftsoft - Mohali, IN** | **Jun 2016 – Dec 2019**
 - Learned PHP frameworks and CMS (Laravel, CakePHP, WordPress, Shopify, CodeIgniter).
 - Developed customization websites for products like t-shirts and hoodies using Laravel and CakePHP.
 - Contributed to projects like [Print Genie](https://printgenie.com) and [The Shoe Snob](https://theshoesnob.com).
